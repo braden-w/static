@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "npx sponsorkit"
+		"build": "sponsorkit"
 	},
 	"devDependencies": {
 		"sponsorkit": "^0.15.0"
